@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "rpl-blog"
-  spec.version       = "0.2.3"
-  spec.authors       = ["Chester How"]
-  spec.email         = ["chesterhow@gmail.com"]
+  spec.version       = "1.0.0"
+  spec.authors       = ["RPL"]
+  spec.email         = ["rpl.as.ucl@gmail.com"]
 
   spec.summary       = %q{RPL Seminar}
   spec.homepage      = "https://rpl-as-ucl.github.io/blog"
