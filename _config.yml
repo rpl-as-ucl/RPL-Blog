@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          RPL Blog
+description:    "RPL Blog"
+baseurl:        "/blog"
+url:            "https://rpl-as-ucl.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         RPL
+  url:          https://rpl-as-ucl.github.io/
+  email:        rpl.as.ucl@gmail.com
 
 # Build settings
 markdown:       kramdown
