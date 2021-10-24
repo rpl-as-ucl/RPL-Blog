@@ -1,7 +1,7 @@
 # Site settings
 title:          RPL Blog
 description:    "RPL Blog"
-baseurl:        "/blog"
+baseurl:        "/rpl-blog"
 url:            "https://rpl-as-ucl.github.io"
 
 # Google Analytics
